@@ -1,1 +1,3 @@
 Hello world ! This is Howard Lo's first git repo.
+
+fuck yeah !

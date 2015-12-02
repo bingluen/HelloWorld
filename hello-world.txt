@@ -2,4 +2,6 @@ Hello world ! This is Howard Lo's first git repo.
 
 fuck yeah !
 
+XD
+
 This is the sentence that will be going to have a 'merge confict'
